@@ -5,7 +5,6 @@
       "description": "lets try again...",
       "id": 1
     },
-
     {
       "title": "My second stream",
       "description": "showing up?",
@@ -22,6 +21,12 @@
       "description": "this should take me to the home page",
       "userId": "101876153192612159153",
       "id": 7
+    },
+    {
+      "title": "Refactored create stream",
+      "description": "see if this works",
+      "userId": "101876153192612159153",
+      "id": 8
     }
   ]
 }
