@@ -12,7 +12,7 @@
     },
     {
       "title": "I created this stream",
-      "description": "I hope it bloody works",
+      "description": "I made a PATCH request instead of PUT",
       "userId": "101876153192612159153",
       "id": 6
     },
@@ -24,8 +24,7 @@
     },
     {
       "title": "Refactored create stream",
-      "description": "see if this works",
-      "userId": "101876153192612159153",
+      "description": "should now be able to edit ",
       "id": 8
     }
   ]
