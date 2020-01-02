@@ -5,21 +5,7 @@
       "description": "lets try again...",
       "id": 1
     },
-    {
-      "title": "My first stream",
-      "description": "lets try again...",
-      "id": 2
-    },
-    {
-      "title": "asdasd",
-      "description": "asdasd",
-      "id": 3
-    },
-    {
-      "title": "asdasd",
-      "description": "asdasd",
-      "id": 4
-    },
+
     {
       "title": "My second stream",
       "description": "showing up?",
@@ -30,6 +16,12 @@
       "description": "I hope it bloody works",
       "userId": "101876153192612159153",
       "id": 6
+    },
+    {
+      "title": "programmtic navigation",
+      "description": "this should take me to the home page",
+      "userId": "101876153192612159153",
+      "id": 7
     }
   ]
 }
