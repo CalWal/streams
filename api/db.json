@@ -24,6 +24,12 @@
       "title": "My second stream",
       "description": "showing up?",
       "id": 5
+    },
+    {
+      "title": "I created this stream",
+      "description": "I hope it bloody works",
+      "userId": "101876153192612159153",
+      "id": 6
     }
   ]
 }
